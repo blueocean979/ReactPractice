@@ -1,0 +1,10 @@
+.itemStyle{
+    width: 100%;
+    border: 1px solid #888;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: row;
+    padding: 0px 32px;
+}
